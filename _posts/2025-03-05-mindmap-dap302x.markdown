@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "[Funix] DAP302x Mindmap Phân tích dữ liệu với Power BI"
+date:   2024-03-05 16:27:54 +0700
+categories: Funix
+---
+
+Use tool [Xmind](https://xmind.app/)
+
+Mindmap Link [drive](https://1drv.ms/u/c/e953ddf9a4ee80b0/EbCA7qT53VMggOn2tAEAAAABxPgxlQ8n7lHccEfXQoUCAA)

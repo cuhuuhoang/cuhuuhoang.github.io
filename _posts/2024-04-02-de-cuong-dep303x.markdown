@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[Funix] Đề cương Dữ liệu lớn với Spark DEP303x"
+title:  "[Funix] DEP303x Đề cương Dữ liệu lớn với Spark"
 date:   2024-04-02 16:27:54 +0700
 categories: Funix
 ---

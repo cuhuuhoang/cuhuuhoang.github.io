@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "[Funix] DAP304x Mindmap Ứng dụng học máy trong phân tích dữ liệu"
+date:   2024-03-05 16:27:54 +0700
+categories: Funix
+---
+
+Use tool [Xmind](https://xmind.app/)
+
+Mindmap Link [drive](https://1drv.ms/u/c/e953ddf9a4ee80b0/EZk9JlfPuARFmblfhEoLRvEB2lAAsV_dP5EhSfzoXE5YBA)

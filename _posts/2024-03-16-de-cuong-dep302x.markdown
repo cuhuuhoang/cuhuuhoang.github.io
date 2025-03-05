@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[Funix] Đề cương Giới thiệu về Kỹ thuật Dữ liệu DEP302x"
+title:  "[Funix] DEP302x Đề cương Giới thiệu về Kỹ thuật Dữ liệu"
 date:   2024-03-16 16:27:54 +0700
 categories: Funix
 ---

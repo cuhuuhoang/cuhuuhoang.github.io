@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "[Funix] DAP301x Mindmap Giới thiệu về Phân tích dữ liệu"
-date:   2024-03-05 16:27:54 +0700
+date:   2025-03-05 16:27:54 +0700
 categories: Funix
 ---
 

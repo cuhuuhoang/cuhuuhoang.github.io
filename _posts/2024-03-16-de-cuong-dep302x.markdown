@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "[Funix] Đề cương Giới thiệu về Kỹ thuật Dữ liệu DEP302x"
+date:   2024-03-16 16:27:54 +0700
+categories: Funix
+---
+
+Xem tại [docs.google.com](https://docs.google.com/document/d/1BA0ria6CL3ZmdlZ4G7nPW8i3-WddDBkEzjteiXM8ziI/edit?usp=sharing)

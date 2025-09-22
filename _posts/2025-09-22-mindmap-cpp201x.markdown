@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "[Funix] CPP201x Mindmap Lập trình C++ Nâng Cao"
+date: 2025-09-22 10:41:54 +0700
+categories: Funix
+---
+
+Use tool [Xmind](https://xmind.app/)
+
+Mindmap Link [drive](https://1drv.ms/u/c/e953ddf9a4ee80b0/EcpVkqMTic5LvMAfp0YGYIEBwqW6qg9osoYNIIR7jMTCxw)

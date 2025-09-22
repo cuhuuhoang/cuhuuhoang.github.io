@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "SQL cơ bản"
+date: 2025-09-22 10:58:54 +0700
+categories: SQL
+---
+
+Học sql cơ bản tại [w3school](https://www.w3schools.com/MySQL/default.asp){:target="_blank"}
+
+Thực hành làm bài tập tại [hackerrank](https://www.hackerrank.com/domains/sql?filters%5Bdifficulty%5D%5B%5D=easy){:
+target="_blank"}
+
+Cách tìm hướng dẫn các bài tập trên hackerrank
+
+Youtube: [hướng dẫn hackerrank + tên challenge](https://www.youtube.com/results?search_query=h%C6%B0%E1%BB%9Bng+d%E1%BA%ABn+hackerrank+select-by-id){:
+target="_blank"}
+
+Google: [đáp án hackerrank + tên challenge](https://www.google.com/search?q=%C4%91%C3%A1p+%C3%A1n+hackerrank+select+by+id){:
+target="_blank"}

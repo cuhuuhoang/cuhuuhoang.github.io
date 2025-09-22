@@ -13,3 +13,7 @@ Bao gồm 10 bài tập cơ bản cho người mới bắt đầu với Python
 Công cụ sử dụng để mở file [visual studio code](https://code.visualstudio.com/download){:target="_blank"}
 
 Cài đặt python cho windows [tại đây](https://www.python.org/downloads/){:target="_blank"}
+
+Hướng dẫn sử dụng visual studio code để đọc file jupyter [tại đây](https://code.visualstudio.com/docs/datascience/jupyter-notebooks){:target="_blank"}
+
+Có thể mở trên chrome, ấn chuột phải trong trang để dịch sang tiếng Việt.
